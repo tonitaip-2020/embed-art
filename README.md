@@ -5,3 +5,11 @@ Embeds album art (album cover) as MP3 metadata. Processes folders recursively, s
 Requires Python 3 and mutagen.
 
 Outputs changes to terminal, and a list of albums for which album art was not embedded or found.
+
+Tested in Windows. Run with
+
+`py embed_art.py "D:\Music"`
+
+or 
+
+``
