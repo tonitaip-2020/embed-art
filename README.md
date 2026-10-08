@@ -12,4 +12,8 @@ Tested in Windows. Run with
 
 or 
 
-``
+`& <path to python> embed_art.py "D:\Music"`
+
+Or test without making changes with
+
+`py embed_art.py "D:\Music" --dry-run`
